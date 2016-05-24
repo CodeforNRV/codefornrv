@@ -1,6 +1,6 @@
-# CodeforNRV.org
+# OLD CodeforNRV.org
 
-The website for the Code for New River Valley Brigade
+This was the old website for the Code for New River Valley Brigade. Our current website runs on Wordpress.
 
 ### Goals
 1. Explain what Code for NRV is and the type of work we do.
